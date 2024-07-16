@@ -4,7 +4,7 @@
 ![Eddy's GitHub stats](https://readmestats.999857.xyz/api?username=edwarddk&show_icons=true&locale=en&theme=shades-of-purple)
 
 ### Some Projects
-[![PiP](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=PiP-Attribute-Remover-and-Player)](https://github.com/edwarddj/PiP-Attribute-Remover-and-Player)[![Relaxer](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=Stress-Reliever)](https://github.com/edwarddj/Stress-Reliever)
+[![PiP](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=PiP-Attribute-Remover-and-Player)](https://github.com/edwarddj/PiP-Attribute-Remover-and-Player)[![Relaxer](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=Stress-Reliever)](https://github.com/edwarddk/Stress-Reliever)
 
 ## 💪Skills and Languages
 
