@@ -1,7 +1,7 @@
 # 👦Eddy D ![Profile Visits](https://komarev.com/ghpvc/?username=edwarddk) ![Greasy Fork Downloads](https://img.shields.io/greasyfork/dt/475305-2-in-1-pip-tool)
 
 ## Profile
-![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwarddk)
+![Eddy's GitHub stats](https://readmestats.999857.xyz/api?username=edwarddk&show_icons=true&locale=en&theme=shades-of-purple)
 
 ## 💪Skills and Languages
 
