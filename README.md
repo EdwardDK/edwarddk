@@ -1,5 +1,4 @@
-# 👦Me ![](https://komarev.com/ghpvc/?username=edwarddk) ![Greasy For Downloads](https://img.shields.io/greasyfork/dt/475305-2-in-1-pip-tool
-)
+# 👦Me ![](https://komarev.com/ghpvc/?username=edwarddk) ![Greasy For Downloads](https://img.shields.io/greasyfork/dt/475305-2-in-1-pip-tool)
 
 ## Profile
 ![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwarddk)
