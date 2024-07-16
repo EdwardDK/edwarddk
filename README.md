@@ -1,7 +1,7 @@
 # 👦Eddy D ![Profile Visits](https://komarev.com/ghpvc/?username=edwarddk) ![Greasy Fork Downloads](https://img.shields.io/greasyfork/dt/475305-2-in-1-pip-tool)
 
 ## Profile
-![Eddy's GitHub stats](https://readmestats.999857.xyz/api?username=edwarddk&show_icons=true&locale=en&theme=shades-of-purple)
+![Eddy's GitHub stats](https://readmestats.999857.xyz/api?username=edwarddk&show_icons=true&locale=en&theme=shades-of-purple)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwarddk&layout=compact)
 
 ### Some Projects
 [![PiP](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=PiP-Attribute-Remover-and-Player)](https://github.com/edwarddj/PiP-Attribute-Remover-and-Player) [![Relaxer](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=Stress-Reliever)](https://github.com/edwarddk/Stress-Reliever)
