@@ -3,6 +3,9 @@
 ## Profile
 ![Eddy's GitHub stats](https://readmestats.999857.xyz/api?username=edwarddk&show_icons=true&locale=en&theme=shades-of-purple)
 
+### Some Projects
+[![PiP](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=PiP-Attribute-Remover-and-Player)](https://github.com/edwarddj/PiP-Attribute-Remover-and-Player)
+
 ## 💪Skills and Languages
 
 ### Front-End Development
