@@ -2,9 +2,10 @@
 
 ## Profile
 ![Eddy's GitHub stats](https://readmestats.999857.xyz/api?username=edwarddk&show_icons=true&locale=en&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwarddk&layout=compact)
 
 ### Some Projects
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwarddk&layout=compact) [![PiP](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=PiP-Attribute-Remover-and-Player)](https://github.com/edwarddk/PiP-Attribute-Remover-and-Player) [![SpecCalc](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=speccalc)](https://github.com/edwarddk/speccalc) 
+[![PiP](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=PiP-Attribute-Remover-and-Player)](https://github.com/edwarddk/PiP-Attribute-Remover-and-Player) [![SpecCalc](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=speccalc)](https://github.com/edwarddk/speccalc) 
 
 ## 💪Skills and Languages
 
