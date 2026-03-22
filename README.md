@@ -4,7 +4,7 @@
 ![Eddy's GitHub stats](https://readmestats.999857.xyz/api?username=edwarddk&show_icons=true&locale=en&theme=shades-of-purple)
 
 ### Some Projects
-[![PiP](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=ML_WristRehab)](https://github.com/EdwardDK/ML_WristRehab) [![SpecCalc](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=speccalc)](https://github.com/edwarddk/speccalc) 
+[![PiP](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=ML_WristRehab)](https://github.com/EdwardDK/ML_WristRehab)
 
 ## 💪Skills and Languages
 
