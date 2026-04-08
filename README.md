@@ -22,7 +22,5 @@ Currently working on [Wrist Rehab](https://github.com/EdwardDK/ML_WristRehab)
 
 [Subtests in pytest 9.0.0+](https://til.simonwillison.net/pytest/subtests) - 2025-12-05
 <!-- tils ends -->
-More on [til.simonwillison.net](https://til.simonwillison.net/)
-</td></tr></table>
 
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
+</td></tr></table>
