@@ -3,8 +3,7 @@
 ## Profile
 ![Eddy's GitHub stats](https://readmestats.999857.xyz/api?username=edwarddk&show_icons=true&locale=en&theme=shades-of-purple)
 
-### Some Projects
-[![PiP](https://github-readme-stats.vercel.app/api/pin/?username=edwarddk&repo=ML_WristRehab)](https://github.com/EdwardDK/ML_WristRehab)
+[![Edward Doubovik profile views](https://u8views.com/api/v1/github/profiles/73299061/views/day-week-month-total-count.svg)](https://u8views.com/github/EdwardDK)
 
 ## 💪Skills and Languages
 
