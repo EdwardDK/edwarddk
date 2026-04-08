@@ -4,7 +4,9 @@ Currently working on [Wrist Rehab](https://github.com/EdwardDK/ML_WristRehab)
 
 ### Recent releases
 <!-- recent_releases starts -->
-[wrist_model.h5](https://github.com/EdwardDK/ML_WristRehab/releases/tag/Model) - 2026-04-08
+[wrist_model](https://github.com/EdwardDK/ML_WristRehab/releases/tag/Model) - 2026-04-08
+
+[recession_model](https://github.com/EdwardDK/ML_RecessionForecast/releases/tag/Model) - 2026-04-08
 
 </td><td valign="top" width="33%">
 
