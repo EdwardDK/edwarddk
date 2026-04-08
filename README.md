@@ -10,7 +10,7 @@ Currently working on [Wrist Rehab](https://github.com/EdwardDK/ML_WristRehab)
 
 </td><td valign="top" width="33%">
 
-### TIL
+### I Learned
 <!-- tils starts -->
 [Running OpenClaw in Docker](https://til.simonwillison.net/llms/openclaw-docker) - 2026-02-01
 
