@@ -12,17 +12,8 @@ Currently working on [Wrist Rehab](https://github.com/EdwardDK/ML_WristRehab)
 
 ### I Learned
 <!-- tils starts -->
-[Running OpenClaw in Docker](https://til.simonwillison.net/llms/openclaw-docker) - 2026-02-01
+[Basic Arduino systems](https://www.geeksforgeeks.org/electronics-engineering/arduino-coding-basics/) - 2026-02-01
 
-[Cloudflare response header transform rules](https://til.simonwillison.net/cloudflare/response-header-transform-rule) - 2026-01-23
-
-[Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages) - 2026-01-22
-
-[Taking Neon I at the Crucible](https://til.simonwillison.net/neon/neon-1) - 2026-01-11
-
-[Downloading archived Git repositories from archive.softwareheritage.org](https://til.simonwillison.net/github/software-archive-recovery) - 2025-12-30
-
-[Subtests in pytest 9.0.0+](https://til.simonwillison.net/pytest/subtests) - 2025-12-05
 <!-- tils ends -->
 
 </td></tr></table>
