@@ -1,10 +1,14 @@
-<table width="100%">
+<div align="center">
+  <a href="https://edwarddk.github.io/">My Personal Website</a>
+</div>
 
+<hr />
+
+<table width="100%">
   <tr>
     <th width="50%" align="left"><h3>RELEASES</h3></th>
     <th width="50%" align="left"><h3>KNOWLEDGE BASE</h3></th>
   </tr>
-
   <tr>
     <td valign="top">
       <br />
