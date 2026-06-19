@@ -6,10 +6,17 @@
 
 <table width="100%">
   <tr>
-    <th width="50%" align="left"><h3>RELEASES</h3></th>
-    <th width="50%" align="left"><h3>KNOWLEDGE BASE</h3></th>
+    <th width="34%" align="left"><h3>CURRENT PROJECTS</h3></th>
+    <th width="33%" align="left"><h3>RELEASES</h3></th>
+    <th width="33%" align="left"><h3>KNOWLEDGE BASE</h3></th>
   </tr>
   <tr>
+    <td valign="top">
+      <br />
+      <b>AI Writing Forensics</b><br />
+      <a href="https://github.com/EdwardDK/Aletheia-Forensics"><code>code repository</code></a><br />
+      <small>Status: Active Development</small>
+    </td>
     <td valign="top">
       <br />
       <b>Wrist Rehab</b><br />
