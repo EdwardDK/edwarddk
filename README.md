@@ -15,7 +15,7 @@
       <br />
       <b>AI Writing Forensics</b><br />
       <a href="https://github.com/EdwardDK/Aletheia-Forensics"><code>code repository</code></a><br />
-      <small>Status: Active Development</small>
+      <small>Status: Frozen Development</small>
     </td>
     <td valign="top">
       <br />
@@ -35,3 +35,5 @@
     </td>
   </tr>
 </table>
+
+<p>Updated 7/29/2026</p>
