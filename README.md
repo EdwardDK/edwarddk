@@ -13,9 +13,13 @@
   <tr>
     <td valign="top">
       <br />
-      <b>AI Writing Forensics</b><br />
-      <a href="https://github.com/EdwardDK/Aletheia-Forensics"><code>code repository</code></a><br />
-      <small>Status: Frozen Development</small>
+      <b>Solvable</b><br />
+      <a href="https://github.com/EdwardDK/solvable"><code>code repository</code></a><br />
+      <small>Status: In Progress</small>
+      <br /><br />
+      <b>Haptic Feedback Wrist Rehab</b><br />
+      <a href="https://github.com/EdwardDK/Haptici"><code>code repository</code></a><br />
+      <small>Status: Uncommitted</small>
     </td>
     <td valign="top">
       <br />
@@ -36,4 +40,4 @@
   </tr>
 </table>
 
-<p>Updated 7/29/2026</p>
+<p>Updated 9/28/2026</p>
